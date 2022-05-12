@@ -1,4 +1,18 @@
+* {
+    font-family: Helvetica ,Arial, sans-serif;
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+.back {
+    text-align: center;
+}
+
 .images {
     height: 500px;
     width: auto;
 }
+
